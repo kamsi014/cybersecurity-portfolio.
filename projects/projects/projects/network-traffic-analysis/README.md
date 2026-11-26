@@ -34,6 +34,6 @@ Hands-on packet capture and analysis will be documented here as the project prog
 
 To be updated following practical investigation.
 
-7. References
+7. References.
 
 Learning resources and technical documentation will be added here.
